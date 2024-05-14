@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'SF Pro';
 }
 
 #root {
@@ -15,8 +16,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background:
-        linear-gradient(hotpink 12.5%, red 0 25%, orange 0 37.5%, yellow 0 50%, green 0 62.5%, darkturquoise 0 75%, blue 0 87.5%, indigo 0);
+    background: white;
 }
 
 .wrapper {
@@ -28,6 +28,8 @@
     left: 50%;
     top: 1.25em;
     border-radius: 0.5em;
+    border: 1px solid black;
+
 }
 
 .container {
