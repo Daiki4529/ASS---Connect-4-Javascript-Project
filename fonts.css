@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'SF Pro';
-    src: url('./fonts/SF_Pro_Regular.OTF') format('opentype');
+    src: url('./SF_Pro_Regular.OTF') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SF Pro';
-    src: url('./fonts/SF_Pro_Medium.OTF') format('opentype');
+    src: url('./SF_Pro_Medium.OTF') format('opentype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SF Pro';
-    src: url('./fonts/SF_Pro_Bold.OTF') format('opentype');
+    src: url('./SF_Pro_Bold.OTF') format('opentype');
     font-weight: 700;
     font-style: normal;
 }
